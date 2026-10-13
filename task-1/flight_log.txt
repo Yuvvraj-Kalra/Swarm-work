@@ -1,0 +1,4 @@
+Flight_ID, Date, Duration_Min, Status
+FL-001, 2026-06-01, 25, Success
+FL-002, 2026-06-03, 18, Success
+FL-003, 2026-06-05, 30, Success
